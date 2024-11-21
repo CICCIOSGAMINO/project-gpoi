@@ -7,6 +7,8 @@ Simple template to handle a GPOI project in the classroom
 ![Ai Hacking](https://doqvf81n9htmm.cloudfront.net/data/TommyHuang_147/0913/hacker.jpg)
 
 
+Small Change
+
 ## List of Items
 <ol>
   <li>First item</li>
