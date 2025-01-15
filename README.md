@@ -1,4 +1,8 @@
 # project-gpoi
+
+git@github.com:GigiClandestino/Project_reps
+git@github.com:ManuVerza/progetto.verzeroli
+
 ## Descrizione Principale
 ### Descrizione Secondaria
 Simple template to handle a GPOI project in the classroom
